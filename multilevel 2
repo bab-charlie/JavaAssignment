@@ -1,0 +1,5 @@
+public class Dog {
+    public void eats(){
+        System.out.println("the dog eats meat");
+    }
+}

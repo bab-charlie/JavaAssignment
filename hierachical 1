@@ -1,0 +1,7 @@
+public class Students extends Class{
+    public void mammals(){
+        System.out.println("All students are mammals");
+    }
+
+
+}
